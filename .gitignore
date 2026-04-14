@@ -9,15 +9,15 @@ Everything.agda
 _build
 tags
 /html
-/src/MAlonzo/
-/src/Formula
-/src/Sem
-/src/NF
-/src/Appl
-/src/CNF
-/src/DP
-/src/DPLL
-/src/CNFIx
-/src/DPIx
-/src/DPLLIx
+lw25/src/MAlonzo/
+lw25/src/Formula
+lw25/src/Sem
+lw25/src/NF
+lw25/src/Appl
+lw25/src/CNF
+lw25/src/DP
+lw25/src/DPLL
+lw25/src/CNFIx
+lw25/src/DPIx
+lw25/src/DPLLIx
 
